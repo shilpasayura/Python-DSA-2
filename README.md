@@ -1,2 +1,2 @@
-# Python_Algorithms
-Solutions of Algorithms in Python
+# Python
+Implementations of Data structures and alogirthms in Python language
