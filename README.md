@@ -1,2 +1,2 @@
 # Python
-Implementations of Data structures and alogirthms in Python language
+Implementations of Data structures and Algorithms in Python language
